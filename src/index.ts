@@ -1,6 +1,6 @@
 console.log('veikia')
 
-import { UserType } from './types.js';
+import { UserType } from '../types.js';
 // pasikeisti .ts i .js!!!===============
 
 const newUser: UserType = {

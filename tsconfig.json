@@ -3,7 +3,7 @@
     "module": "ES2015",
     "target": "es2016", // į kokią JavaScript versiją paversti kodą                 
     "rootDir": "./src", // aplankas, kuriame ieškoti TypeScript failų                           
-    "outDir": "./public/js", // aplankas į kurį sudėti transpiliuotus JavaScript failus                                    
+    "outDir": "./src", // aplankas į kurį sudėti transpiliuotus JavaScript failus                                    
     "sourceMap": true, // ar susieti transpiliuoto JavaScript failų eilutes su orginalių failų eilutėmis                           
     "forceConsistentCasingInFileNames": true, // ar versti vadinti failus pagal vienodą failų įvardinimo sintaksę
     "strict": true, // ar kodas privalo būti griežtos sintaksės                            
